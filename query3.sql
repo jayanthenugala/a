@@ -1,0 +1,3 @@
+SELECT * 
+FROM global_data 
+WHERE year BETWEEN 1808 AND 2013;
